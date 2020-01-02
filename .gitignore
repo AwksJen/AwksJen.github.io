@@ -25,3 +25,5 @@ hs_err_pid*
 /BHfizzBuzz/nbproject/private/
 /HasUniqueChars/nbproject/private/
 /BHHasMoreVowels/nbproject/private/
+/BHfizzBuzz/dist/
+/BHfizzBuzz/build/
