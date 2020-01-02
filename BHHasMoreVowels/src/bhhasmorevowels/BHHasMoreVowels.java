@@ -14,13 +14,19 @@ public class BHHasMoreVowels {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+   
         // in an array, determine index value,
         //to then determine what group it goes in //why is the "to" highlighted?
         //while counting objects and adding to the sum
         //in each group
         //at end compare all individuals sums
         //determine highest sum
+        public boolean hasMoreVowels() {
+         
+        
+        
+    
+    
     }
     
 }
